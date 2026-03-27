@@ -1,0 +1,5 @@
+{
+  "name": "Jiu-Jitsu Bracket Generator",
+  "description": "Genera brackets de competencia aleatorios para torneos de Jiu-Jitsu, manejando competidores impares con pases directos.",
+  "requestFramePermissions": []
+}
